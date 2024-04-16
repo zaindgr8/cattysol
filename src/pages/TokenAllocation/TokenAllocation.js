@@ -15,7 +15,7 @@ const TokenAllocation = () => {
     <div className="tokenAllocation">
       <nav className="nav">
         <Link to="/">
-          <img src="/images/Logonav.png" alt="logo" />
+          <img src="/images/gc1.png" alt="logo" />
         </Link>
         <ul className={click ? "navList active" : "navList"}>
           <li>
