@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
         <div className='footer-inner2'>
            <div className='footer-inner2_1'>
-           <img src="/images/gc.png" alt="logo" />
+           <img src="/images/gc1.png" alt="logo" />
             {/* <div className='language'>
                 <p>LANGUAGE</p>
                 <img src="/images/US.png" alt="us" style={{width:'20px',objectFit:'cover',height:'20px'}} /><select style={{backgroundColor:'#361900',color:'white',border:'none'}} name="" id="">
@@ -59,13 +59,13 @@ const Footer = () => {
             <div className='footer-inner2_2'>
                <p>&copy; 2024 Catty SOL. All rights reserved</p>
                <div className='connect_socials'>
-               <p>Connect With Us</p>
-               <div>
+               {/* <p>Connect With Us</p> */}
+               {/* <div>
                    <FaTelegram className='main_socials'/>
                    <FaFacebook className='main_socials'/>
                    <FaTwitter className='main_socials'/>
                    <FaYoutube className='main_socials'/>
-               </div>
+               </div> */}
                </div>
             </div>
         </div>

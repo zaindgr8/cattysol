@@ -12,7 +12,7 @@ const About = () => {
         <div className='circle circle_two'></div>
         <div className='circle circle_three'></div>
         <div className='about_image'>
-        <img style={{marginTop:'-100px',marginLeft:'30px'}}src='/images/2a.png' alt='brandImage'/>
+        <img style={{marginTop:'-100px',marginLeft:'30px'}}src='/images/csol2.png' alt='brandImage'/>
             <p>The goal of this coin is to build more interest in the digital world, using the interests of the common people and giving them a platform to not only focus on their interests but also earn from them.</p>
         </div>
         <div className='circle circle_four'></div>
